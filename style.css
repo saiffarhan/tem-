@@ -1,0 +1,355 @@
+/* LESS Document */
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
+		@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Bungee|Faster+One|Medula+One|Revalia|Bubbler+One|Bungee+Hairline|Baloo+Chettan|Chela+One|Raleway|Anaheim|Passion+One|Russo+One');
+		@import url('https://fonts.googleapis.com/css?family=Megrim');
+		@import url('http://www.cufonfonts.com #### */@font-face');
+		html{
+			width: 860px;
+			background-color: rgb(51, 51, 51);
+			margin: 0 auto;
+			
+		}
+		body{
+			width: 90%;
+			margin: 0 10%;
+		border-left: 2px solid #292929; 
+		border-right: 2px solid #292929;	
+			
+		}
+		#part1{
+			background-color: rgb(255, 255, 255) ;
+		}
+		.container{
+			width: 100%;
+			padding-top: 10px;
+			background-color: rgb(255, 255, 255) ;
+		}
+		h5{
+			font-size: 28px;
+			font-family: 'Chela One', cursive;
+			background-color: rgb(255, 255, 255) ;
+			
+		}
+		.title{
+			width: 66%;
+			padding: 0 auto;
+			background-color: rgb(255, 255, 255) ;
+		}
+		h6{
+		font-family: 'Blade Runner Movie Font';;
+		font-size: 55px;
+		padding: 3px auto;
+		text-align: center;
+		background-color: rgb(255, 255, 255) ;
+		}
+		h7{
+			font-size: 19px;
+			font-family: 'Faster One', cursive;
+			padding: 0 auto;
+			background-color: rgb(255, 255, 255) ;
+		}
+		h3{
+			font-family: 'Baloo Chettan', cursive;
+			text-align: left;
+			font-size: 36px;
+		}
+		.w3-container{
+			width: 95%;
+			background-color: rgb(255, 255, 255) ;
+			margin: 0 auto;
+		
+		}
+		.w3btn{
+			margin: 3%;
+			padding: 10px 18px;
+			font-family: 'Revalia', cursive;
+			font-size: 18px;
+			background-color: 	rgb(13, 105, 242);
+			border-radius: 10px;
+			color: white;
+			
+			}
+		.w3btn1{
+			margin: 3%;
+			padding: 10px 18px;
+			font-family: 'Revalia', cursive;
+			font-size: 18px;
+			background-color: 	rgb(204, 0, 153);
+			border-radius: 10px;
+			color: white;
+			}
+		.w3btn2{
+			margin: 3%;
+			padding: 10px 18px;
+			font-family: 'Revalia', cursive;
+			font-size: 18px;
+			background-color: 	rgb(255, 0, 0);
+			border-radius: 10px;
+			color: white;
+			}
+		.img{
+			width: 100%;
+			height: auto;
+			background-color: rgb(255, 255, 255) ;
+		}
+		.table1{
+			width:98%;
+			background-color: rgb(255, 255, 255) ;
+		}
+		tr{
+			width: 100%;
+			}
+		.th2, .th3{
+			width: 49%;
+			background-color: rgb(255, 255, 255) ;
+		}
+		.th3{
+			padding: 25px;
+		}
+		.th1{
+			background-color: 	rgb(204, 0, 154);
+			width: 2%;
+		}
+		.left{
+			text-align: left;
+			font-size: 13px;
+			font-family: 'Raleway', sans-serif;
+			margin: 0;
+			background-color: rgb(255, 255, 255) ;
+			
+		}
+		
+		.table2{
+			width: 100%;
+			padding-left: 66px;
+			
+			
+		}
+		.box1{
+			height: 45px;
+			margin-left: 8px;
+		}
+		
+		.payment-icon{
+			width: 65px;
+			background-color:  rgb(4, 146, 213);
+			border-radius: 4px;
+			
+		}
+		.Payment-details{
+			width: 350px;
+			text-align: left;
+			padding-left: 20px;
+			font-size: 40px;
+			font-family: 'Passion One', cursive;
+			color: lightgrey;
+			word-spacing: 4px;
+			
+		}
+		.shipping-icon{
+			width: 65px;
+			background-color:  rgb(4, 146, 213);
+			border-radius: 4px;
+		}
+		.shipping-details{
+			width: 350px;
+			text-align: left;
+			padding-left: 20px;
+			font-size: 40px;
+			font-family: 'Passion One', cursive;
+			color: lightgrey;
+			word-spacing: 4px;
+			
+		}
+		.table3{
+			width: 100%;
+			margin: 0 auto;
+		}
+		
+		.payment-bottom{
+			padding: 10px;
+			padding-left: 20px;
+			width: 49%;
+			color: dimgrey;
+			text-align: left;
+			font-size: 16px;
+			font-family: 'Raleway', sans-serif;
+		}
+			.shipping-bottom{
+			padding: 10px;
+			padding-left: 20px;
+			width: 49%;
+			color: dimgrey;
+			text-align: left;
+			font-size: 16px;
+			font-family: 'Raleway', sans-serif;
+		}
+		.table4{
+			width: 100%;
+			margin: 0 auto;
+		}
+		.return{
+			font-size: 48px;
+			padding-left: 20px;
+			color:dimgray;
+			font-family: 'Passion One', cursive;
+			text-align: left;
+		}
+		.return-details{
+			padding-left: 40px;
+			padding-right: 20px;
+			color: dimgrey;
+			text-align: left;
+			font-size: 16px;
+			font-family: 'Raleway', sans-serif;
+		}
+		#bottom{
+			background-color: rgb(255, 255, 255);
+			width:100%;
+		}
+		
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: " ";
+	display: table;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+h1 {
+	color: #ccc;
+	text-align: center;
+}
+
+a {
+  color: #ccc;
+  text-decoration: none;
+  outline: none;
+}
+
+/*Fun begins*/
+.tab_container {
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 70px;
+	position: relative;
+}
+
+input, section {
+  clear: both;
+  padding-top: 10px;
+  display: none;
+}
+
+label {
+  font-weight: 700;
+  font-size: 18px;
+  display: block;
+  float: left;
+  width: 24%;
+  padding: 0.4em;
+  color: rgb(0,0,0);
+  cursor: pointer;
+  text-decoration: none;
+  text-align: center;
+  background: rgb(220,220,220);
+ border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border: 2px solid #f0f0f0;
+}
+		#tab1{
+			font-family: 'Bungee Hairline', cursive;
+		}
+
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3,
+#tab4:checked ~ #content4,
+#tab5:checked ~ #content5 {
+  display: block;
+  padding: 20px;
+  background: #fff;
+  color: #999;
+  border: 2px solid #f0f0f0;
+font-family: 'Bungee Hairline', cursive;
+}
+
+.tab_container .tab-content p,
+.tab_container .tab-content h3 {
+  -webkit-animation: fadeInScale 0.7s ease-in-out;
+  -moz-animation: fadeInScale 0.7s ease-in-out;
+  animation: fadeInScale 0.7s ease-in-out;
+}
+.tab_container .tab-content h3  {
+  text-align: center;
+}
+
+.tab_container [id^="tab"]:checked + label {
+  background: #fff;
+  box-shadow: inset 0 3px grey;
+}
+
+.tab_container [id^="tab"]:checked + label .fa {
+  color: #0CE;
+}
+
+label .fa {
+  font-size: 1.3em;
+  margin: 0 0.4em 0 0;
+}
+
+/*Media query*/
+@media only screen and (max-width: 900px) {
+  label span {
+    display: none;
+  }
+  
+  .tab_container {
+    width: 98%;
+  }
+}
+
+/*Content Animation*/
+@keyframes fadeInScale {
+  0% {
+  	transform: scale(0.9);
+  	opacity: 0;
+  }
+  
+  100% {
+  	transform: scale(1);
+  	opacity: 1;
+  }
+}
+
+.no_wrap {
+  text-align:center;
+	font-family: 'Russo One', sans-serif;
+font-size: 20px;
+  color: black;
+}
+		.img-btm{
+			
+			padding: 0 18%;
+		}
+.link {
+  text-align:center;
+}
+		.det{
+			font-family: 'Anaheim', sans-serif;
+			font-size: 18px;
+		}
+		.det1{
+			color: rgb(253, 10, 10);
+		}
